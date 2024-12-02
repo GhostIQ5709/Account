@@ -1,0 +1,29 @@
+c:\users\hello\onedrive\documents\visual studio 2015\Projects\Account\Account\bin\Debug\Account.exe.config
+c:\users\hello\onedrive\documents\visual studio 2015\Projects\Account\Account\obj\Debug\Account.vbprojResolveAssemblyReference.cache
+c:\users\hello\onedrive\documents\visual studio 2015\Projects\Account\Account\obj\Debug\Account.account.resources
+c:\users\hello\onedrive\documents\visual studio 2015\Projects\Account\Account\obj\Debug\Account.Resources.resources
+c:\users\hello\onedrive\documents\visual studio 2015\Projects\Account\Account\obj\Debug\Account.UC_Login.resources
+c:\users\hello\onedrive\documents\visual studio 2015\Projects\Account\Account\obj\Debug\Account.UC_Signup.resources
+c:\users\hello\onedrive\documents\visual studio 2015\Projects\Account\Account\obj\Debug\Account.vbproj.GenerateResource.Cache
+c:\users\hello\onedrive\documents\visual studio 2015\Projects\Account\Account\obj\Debug\Account.xml
+c:\users\hello\onedrive\documents\visual studio 2015\Projects\Account\Account\bin\Debug\Account.exe
+c:\users\hello\onedrive\documents\visual studio 2015\Projects\Account\Account\bin\Debug\Account.pdb
+c:\users\hello\onedrive\documents\visual studio 2015\Projects\Account\Account\bin\Debug\Account.xml
+c:\users\hello\onedrive\documents\visual studio 2015\Projects\Account\Account\obj\Debug\Account.exe
+c:\users\hello\onedrive\documents\visual studio 2015\Projects\Account\Account\obj\Debug\Account.pdb
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\bin\Debug\Account.exe.config
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\bin\Debug\Account.exe
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\bin\Debug\Account.pdb
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\bin\Debug\Account.xml
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\obj\Debug\Account.vbprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\obj\Debug\Account.account.resources
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\obj\Debug\Account.Resources.resources
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\obj\Debug\Account.UC_Login.resources
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\obj\Debug\Account.UC_Signup.resources
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\obj\Debug\Account.vbproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\obj\Debug\Account.vbproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\obj\Debug\Account.exe
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\obj\Debug\Account.xml
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\obj\Debug\Account.pdb
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\obj\Debug\Account.vpn.resources
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Account\Account\obj\Debug\Account.Form1.resources
